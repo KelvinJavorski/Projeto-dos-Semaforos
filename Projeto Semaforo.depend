@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542739789 source:c:\users\kelvin\desktop\euler\eulerprimefactor\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
+1542851665 source:c:\users\kelvin\desktop\portfolio\projeto semaforo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+

@@ -1,0 +1,16 @@
+            Semaforo 1    Semaforo 3    Semaforo 4                              
+            ( )	          ( )           ( )                                     
+            ( ) | |       ( ) | |       ( ) | |                                 
+            ( ) | |       ( ) | |       ( ) | |                                 
+                                                                                
+                                                                                
+Semaforo 6/1                                          Semaforo 6/2              
+( )                                                   ( )                       
+( ) | |                                               ( ) | |                   
+( ) | |                                               ( ) | |                   
+                                                                                
+                                                                                
+Semaforo 7                Semaforo 3                                  Semaforo 2
+( )                       ( )                                         ( )       
+( ) | |                   ( ) | |                                     ( ) | |   
+( ) | |                   ( ) | |                                     ( ) | |   
